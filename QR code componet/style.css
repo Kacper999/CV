@@ -1,0 +1,41 @@
+body {
+    background-color: #d5e1ef;
+}
+
+
+.container {
+    background-color: white;
+    height:360px;
+    width:250px;
+    margin-top:200px;
+    margin-left:40%;
+    border-radius:20px;
+}
+
+img {
+    width: 190px;
+    margin-top: 10%;
+    margin-left: 50%;
+    transform: translate(-50%);
+    border-radius: 20px;
+
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+    top: 330px;    
+}
+
+p{
+    color: gray;
+    text-align: center;
+    font: 8px;
+}
+
+.attribution {
+    font-size: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-right:120px;
+}
